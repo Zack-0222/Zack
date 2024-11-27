@@ -1,16 +1,4 @@
-
-Data/gapminder_gdp_asia.csv
-Data/.ipynb_checkpoints/gapminder_gdp_oceania-checkpoint.csv
-Data/gapminder_gdp_africa.csv
-Data/gapminder_gdp_europe.csv
-Data/gapminder_gdp_oceania.csv
-Notebooks/.ipynb_checkpoints/conditional-checkpoint.ipynb
-Notebooks/.ipynb_checkpoints/dataframe-checkpoint.ipynb
-Notebooks/.ipynb_checkpoints/loops-checkpoint.ipynb
-Notebooks/.ipynb_checkpoints/Getting started swith Python-checkpoint.ipynb
-Notebooks/.ipynb_checkpoints/List-checkpoint.ipynb
-Data/gapminder_all.csv
-Notebooks/.ipynb_checkpoints/Reading_data-checkpoint.ipynb
-Data/gapminder_gdp_americas.csv
-Data/.ipynb_checkpoints/gapminder_all-checkpoint.csv
+Notebooks/.ipynb_checkpoints/
+notebooks/.jupyter/
 .DS_Store
+Data/.ipynb_checkpoints/
